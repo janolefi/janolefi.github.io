@@ -10,6 +10,11 @@ author_profile: true
 <img src="https://github.com/janolefi/LaMa/raw/main/man/figures/Logo_LaMa_surf.png"
      align="right" width="185"/>
 
+[![CRANstatus](https://www.r-pkg.org/badges/version/LaMa)](https://CRAN.R-project.org/package=LaMa)
+[![metacrandownloads](https://cranlogs.r-pkg.org/badges/last-month/LaMa)](https://cran.r-project.org/package=LaMa)
+[![totaldownloads](https://cranlogs.r-pkg.org:443/badges/grand-total/LaMa)](https://cranlogs.r-pkg.org:443/badges/grand-total/LaMa)
+[![R-CMD-check](https://github.com/janolefi/LaMa/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/janolefi/LaMa/actions/workflows/R-CMD-check.yaml)
+
 I wrote the R package `LaMa` for flexible model building and fast estimation of **latent Markov models**. It makes building such models much more convenient (kinda feels like stacking lego blocks) and allows for significant speed gains, so give it a try!
 
 * Check out the package website <a href = "https://janolefi.github.io/LaMa/" target = "_blank">here</a>
