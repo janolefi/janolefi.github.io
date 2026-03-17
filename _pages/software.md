@@ -43,6 +43,7 @@ differentiation. `RTMBdist` fills this gap, enabling reliable and efficient mode
 [![CRANstatus](https://www.r-pkg.org/badges/version/EgoCor)](https://CRAN.R-project.org/package=EgoCor)
 [![metacrandownloads](https://cranlogs.r-pkg.org/badges/last-month/EgoCor)](https://cran.r-project.org/package=EgoCor)
 [![totaldownloads](https://cranlogs.r-pkg.org:443/badges/grand-total/EgoCor)](https://cran.r-project.org/package=EgoCor)
+[![R-CMD-check](https://github.com/julia-dyck/EgoCor/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/julia-dyck/EgoCor/actions/workflows/R-CMD-check.yaml)
 
 I assisted <a href = "https://www.uni-bielefeld.de/fakultaeten/wirtschaftswissenschaften/lehrbereiche/stats/team/julia-dyck-(m.sc.)/" target="_blank">Julia Dyck</a> in developing the R package `EgoCor` as a user-friendly interface based on the R package `gstat` to fit exponential parametric models to empirical semi-variograms to model the spatial correlation structure of health data.
 
