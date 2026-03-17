@@ -25,6 +25,11 @@ I wrote the R package `LaMa` for flexible model building and fast estimation of 
 
 <img src="https://github.com/janolefi/RTMBdist/raw/master/man/figures/RTMBdist_hex.png"
      align="right" width="155"/>
+     
+[![CRANstatus](https://www.r-pkg.org/badges/version/RTMBdist)](https://CRAN.R-project.org/package=RTMBdist)
+[![metacrandownloads](https://cranlogs.r-pkg.org/badges/last-month/RTMBdist)](https://cran.r-project.org/package=RTMBdist)
+[![totaldownloads](https://cranlogs.r-pkg.org:443/badges/grand-total/RTMBdist)](https://cranlogs.r-pkg.org:443/badges/grand-total/RTMBdist)
+[![R-CMD-check](https://github.com/janolefi/RTMBdist/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/janolefi/RTMBdist/actions/workflows/R-CMD-check.yaml)
 
 I created the R package `RTMBdist`, a library of probability distributions compatible with automatic differentiation delivered by the <a href = "https://kaskr.r-universe.dev/RTMB" target = "_blank">`RTMB`</a> package. 
 While `RTMB` allows flexible, fast likelihood-based modelling in R, many existing distributions break automatic
