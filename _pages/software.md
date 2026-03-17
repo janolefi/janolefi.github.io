@@ -12,7 +12,7 @@ author_profile: true
 
 [![CRANstatus](https://www.r-pkg.org/badges/version/LaMa)](https://CRAN.R-project.org/package=LaMa)
 [![metacrandownloads](https://cranlogs.r-pkg.org/badges/last-month/LaMa)](https://cran.r-project.org/package=LaMa)
-[![totaldownloads](https://cranlogs.r-pkg.org:443/badges/grand-total/LaMa)](https://cranlogs.r-pkg.org:443/badges/grand-total/LaMa)
+[![totaldownloads](https://cranlogs.r-pkg.org:443/badges/grand-total/LaMa)](https://cran.r-project.org/package=LaMa)
 [![R-CMD-check](https://github.com/janolefi/LaMa/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/janolefi/LaMa/actions/workflows/R-CMD-check.yaml)
 
 I wrote the R package `LaMa` for flexible model building and fast estimation of **latent Markov models**. It makes building such models much more convenient (kinda feels like stacking lego blocks) and allows for significant speed gains, so give it a try!
@@ -28,7 +28,7 @@ I wrote the R package `LaMa` for flexible model building and fast estimation of 
      
 [![CRANstatus](https://www.r-pkg.org/badges/version/RTMBdist)](https://CRAN.R-project.org/package=RTMBdist)
 [![metacrandownloads](https://cranlogs.r-pkg.org/badges/last-month/RTMBdist)](https://cran.r-project.org/package=RTMBdist)
-[![totaldownloads](https://cranlogs.r-pkg.org:443/badges/grand-total/RTMBdist)](https://cranlogs.r-pkg.org:443/badges/grand-total/RTMBdist)
+[![totaldownloads](https://cranlogs.r-pkg.org:443/badges/grand-total/RTMBdist)](https://cran.r-project.org/package=RTMBdist)
 [![R-CMD-check](https://github.com/janolefi/RTMBdist/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/janolefi/RTMBdist/actions/workflows/R-CMD-check.yaml)
 
 I created the R package `RTMBdist`, a library of probability distributions compatible with automatic differentiation delivered by the <a href = "https://kaskr.r-universe.dev/RTMB" target = "_blank">`RTMB`</a> package. 
@@ -39,6 +39,11 @@ differentiation. `RTMBdist` fills this gap, enabling reliable and efficient mode
 * <a href = "https://github.com/janolefi/RTMBdist" target = "_blank">Github</a>
 
 ## EgoCor
+
+[![CRANstatus](https://www.r-pkg.org/badges/version/EgoCor)](https://CRAN.R-project.org/package=EgoCor)
+[![metacrandownloads](https://cranlogs.r-pkg.org/badges/last-month/EgoCor)](https://cran.r-project.org/package=EgoCor)
+[![totaldownloads](https://cranlogs.r-pkg.org:443/badges/grand-total/EgoCor)](https://cran.r-project.org/package=EgoCor)
+
 I assisted <a href = "https://www.uni-bielefeld.de/fakultaeten/wirtschaftswissenschaften/lehrbereiche/stats/team/julia-dyck-(m.sc.)/" target="_blank">Julia Dyck</a> in developing the R package `EgoCor` as a user-friendly interface based on the R package `gstat` to fit exponential parametric models to empirical semi-variograms to model the spatial correlation structure of health data.
 
 * <a href = "https://cran.r-project.org/web/packages/EgoCor/index.html" target="_blank">CRAN</a>
