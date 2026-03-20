@@ -31,7 +31,9 @@ Note that I got married in January 2026 and changed my last name from Koslik to 
 
 ## Preprints
 
-
+- **Fischer, J.-O.** (2026)<br>
+["Fast and scalable inference in hidden Markov models with Gaussian fields"](https://arxiv.org/abs/2603.17469)<br>
+*arXiv preprint*, arXiv:2603.17469
 - Michels, R., Bajons, R., **Fischer, J.-O.** (2026)<br>
 ["Integrating Unsupervised and Supervised Learning for the Prediction of Defensive Schemes in American football."](https://arxiv.org/abs/2602.10784)<br>
 *arXiv preprint*, arXiv:2602.10784
