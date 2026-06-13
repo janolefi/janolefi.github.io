@@ -31,7 +31,7 @@ Note that I got married in January 2026 and changed my last name from Koslik to 
 
 ## Preprints
 
-- Dupont, F., McClintock B. T., **Fischer, J.-O.**, Marcoux M., Hussey, N. E., Auger-Méthé M. (2026)<br>
+- Dupont, F., McClintock, B. T., **Fischer, J.-O.**, Marcoux, M., Hussey, N. E., Auger-Méthé, M. (2026)<br>
 ["Inferring resource selection and utilization distributions from irregular and error-prone animal tracking data"](https://arxiv.org/abs/2606.12566)<br>
 *arXiv preprint*, arXiv:2606.12566
 - **Fischer, J.-O.** (2026)<br>
