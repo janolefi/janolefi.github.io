@@ -10,7 +10,7 @@ Note that I got married in January 2026 and changed my last name from Koslik to 
 
 ## Peer-reviewed papers
 
-- Vienken, M. N., **Fischer, J.-O.**, Langrock, R. (2025)<br>
+- Vienken, M. N., **Fischer, J.-O.**, Langrock, R. (2026)<br>
 ["Inference on state occupancy in covariate-driven hidden Markov models."](https://arxiv.org/abs/2512.17496)<br>
 *Methods in Ecology and Evolution* (in press).
 - **Koslik, J.-O.**, Feldmann, C.C., Mews, S., Michels, R., Langrock, R. (2025)<br>
