@@ -10,6 +10,9 @@ Note that I got married in January 2026 and changed my last name from Koslik to 
 
 ## Peer-reviewed papers
 
+- Vienken, M. N., **Koslik, J.-O.**, & Langrock, R. (2025)<br>
+["Inference on state occupancy in covariate-driven hidden Markov models."](https://arxiv.org/abs/2512.17496)<br>
+*Methods in Ecology and Evolution* (in press).
 - **Koslik, J.-O.**, Feldmann, C.C., Mews, S., Michels, R., Langrock, R. (2025)<br>
 ["Inference on the state process of periodically inhomogeneous hidden Markov models for animal behavior"](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-19/issue-4/Inference-on-the-state-process-of-periodically-inhomogeneous-hidden-Markov/10.1214/25-AOAS2107.full)<br>
 *The Annals of Applied Statistics*, 19(4), 2724-2737.
@@ -43,9 +46,6 @@ Note that I got married in January 2026 and changed my last name from Koslik to 
 - Ammann, K., Adam, T., **Koslik, J.-O.** (2026)<br>
 ["Non-Homogeneous Markov-Switching Generalized Additive Models for Location, Scale, and Shape"](https://arxiv.org/abs/2601.03760)<br>
 *arXiv preprint*, arXiv:2601.03760
-- Vienken, M. N., **Koslik, J.-O.**, & Langrock, R. (2025)<br>
-["Inference on state occupancy in covariate-driven hidden Markov models."](https://arxiv.org/abs/2512.17496)<br>
-*arXiv preprint*, arXiv:2512.17496
 - **Koslik, J.-O.**, Dupont, F., Auger-Méthé, M., Marcoux, M., Hussey, N., Heckman, N. (2025)<br>
 ["Flexible unimodal density estimation in hidden Markov models"](https://arxiv.org/abs/2511.17071)<br>
 *arXiv preprint*, arXiv:2511.17071
