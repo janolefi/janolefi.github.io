@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## Talks
 
-**Fast estimation of Markov-switching correlated random walk models subject to measurement error**
+**Fast estimation of Markov-switching correlated random walk models subject to measurement error**<br>
 <span style="color:grey">11. June 2026,
 Bioinference conference 2026, St Andrews, Scotland
 </span><br>
