@@ -11,8 +11,8 @@ Note that I got married in January 2026 and changed my last name from Koslik to 
 ## Peer-reviewed papers
 
 - Vienken, M. N., **Fischer, J.-O.**, Langrock, R. (2026)<br>
-["Inference on state occupancy in covariate-driven hidden Markov models."](https://arxiv.org/abs/2512.17496)<br>
-*Methods in Ecology and Evolution* (in press).
+["Inference on state occupancy in covariate-driven hidden Markov models."](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210x.70361)<br>
+*Methods in Ecology and Evolution* 17(8), 2436-2448.
 - **Koslik, J.-O.**, Feldmann, C.C., Mews, S., Michels, R., Langrock, R. (2025)<br>
 ["Inference on the state process of periodically inhomogeneous hidden Markov models for animal behavior"](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-19/issue-4/Inference-on-the-state-process-of-periodically-inhomogeneous-hidden-Markov/10.1214/25-AOAS2107.full)<br>
 *The Annals of Applied Statistics*, 19(4), 2724-2737.
