@@ -10,6 +10,9 @@ Note that I got married in January 2026 and changed my last name from Koslik to 
 
 ## Peer-reviewed papers
 
+- **Fischer, J.-O.**, Dupont, F., Auger-Méthé, M., Marcoux, M., Hussey, N., Heckman, N. (2026)<br>
+["Flexible unimodal density estimation in hidden Markov models"](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210x.70390)<br>
+*Methods in Ecology and Evolution*.
 - Vienken, M. N., **Fischer, J.-O.**, Langrock, R. (2026)<br>
 ["Inference on state occupancy in covariate-driven hidden Markov models."](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210x.70361)<br>
 *Methods in Ecology and Evolution* 17(8), 2436-2448.
@@ -46,9 +49,6 @@ Note that I got married in January 2026 and changed my last name from Koslik to 
 - Ammann, K., Adam, T., **Koslik, J.-O.** (2026)<br>
 ["Non-Homogeneous Markov-Switching Generalized Additive Models for Location, Scale, and Shape"](https://arxiv.org/abs/2601.03760)<br>
 *arXiv preprint*, arXiv:2601.03760
-- **Koslik, J.-O.**, Dupont, F., Auger-Méthé, M., Marcoux, M., Hussey, N., Heckman, N. (2025)<br>
-["Flexible unimodal density estimation in hidden Markov models"](https://arxiv.org/abs/2511.17071)<br>
-*arXiv preprint*, arXiv:2511.17071
 - **Koslik, J.-O.** (2025)<br>
 ["Tensor-product interactions in Markov-switching models"](https://arxiv.org/abs/2507.01555)<br>
 *arXiv preprint*, arXiv:2507.01555
