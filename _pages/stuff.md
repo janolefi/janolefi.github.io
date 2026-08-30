@@ -7,6 +7,10 @@ author_profile: true
 
 ## 2026
 This summer, our research group participated in two 24 hours swimming events.
+<div style="text-align: center;">
+<img src="../images/Schwerte.jpg" style="width: 49%; height: auto;">
+<img src="../images/Schroetti.jpg" style="width: 49%; height: auto;">
+</div>
 
 ## 2025
 [Robert Bajons](https://www.wu.ac.at/statmath/faculty-staff/faculty/robert-bajons/), [Rouven Michels](https://www.uni-bielefeld.de/fakultaeten/wirtschaftswissenschaften/lehrbereiche/stats/team/rouven-michels-(b.sc.)/), and I again participated in the [NFL Big Data Bowl](https://www.kaggle.com/competitions/nfl-big-data-bowl-2025/code?competitionId=84175&searchQuery=hmmotion&excludeNonAccessedDatasources=true). We developed an HMM to uncover guarding-assignment from pre-snap motion data, allowing us to predict defensive strategies. Click [here](https://www.kaggle.com/code/rouvenmichels/hmmotion-using-tracking-data-to-predict-coverage) to view our submission and [here](https://github.com/janoleko/HMMotion) for the code.
