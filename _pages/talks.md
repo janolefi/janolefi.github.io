@@ -6,6 +6,11 @@ author_profile: true
 ---
 ## Talks
 
+**Fast and scalable inference in hidden Markov models with Gaussian fields**<br>
+<span style="color:grey"> 2 July 2026,
+International Workshop on Statistical Modelling (IWSM), University of Oslo, Norway,
+</span><br>
+
 **Fast estimation of Markov-switching correlated random walk models subject to measurement error**<br>
 <span style="color:grey">11. June 2026,
 Bioinference conference 2026, St Andrews, Scotland
