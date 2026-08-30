@@ -7,7 +7,7 @@ author_profile: true
 ## Talks
 
 **Fast and scalable inference in hidden Markov models with Gaussian fields**<br>
-<span style="color:grey"> 2 July 2026,
+<span style="color:grey">1 July 2026,
 International Workshop on Statistical Modelling (IWSM), Oslo, Norway
 </span><br>
 <div style="text-align: center;">
@@ -15,12 +15,12 @@ International Workshop on Statistical Modelling (IWSM), Oslo, Norway
 </div><br>
 
 **Fast estimation of Markov-switching correlated random walk models subject to measurement error**<br>
-<span style="color:grey">11. June 2026,
+<span style="color:grey">11 June 2026,
 Bioinference conference 2026, St Andrews, Scotland
 </span><br>
 
 **Efficient estimation of nonparametric Markov-switching models**<br>
-<span style="color:grey">17. December 2025,
+<span style="color:grey">17 December 2025,
 NCSE Meeting 2025, St Andrews, Scotland
 </span><br>
 <div style="text-align: center;">
@@ -28,33 +28,33 @@ NCSE Meeting 2025, St Andrews, Scotland
 </div><br>
 
 **Fast approximate likelihood inference for indirectly observed hidden Markov models**<br>
-<span style="color:grey">16. December 2025,
+<span style="color:grey">16 December 2025,
 Colloquium of the Center for Statistics, Bielefeld University
 </span><br>
 
 **Automatic and efficient selection of multiple LASSO penalties
 for complex likelihood models**<br>
-<span style="color:grey">27. November 2025,
+<span style="color:grey">27 November 2025,
 Young Researchers Workshop of the Center for Statistics, Bielefeld University, Germany
 </span><br>
 
 **Hidden semi-Markov models with inhomogeneous state dwell-time distributions**<br>
-<span style="color:grey">25. November 2025,
+<span style="color:grey">25 November 2025,
 MIAT Seminar, INRAE, Toulouse, France
 </span><br>
 
 **Efficient estimation of nonparametric Markov-switching models**<br>
-<span style="color:grey">6. October 2025,
+<span style="color:grey">6 October 2025,
 Statistics Seminar, Edinburgh, Scotland
 </span><br>
 
 **Efficient estimation of nonparametric Markov-switching models**<br>
-<span style="color:grey">3. September 2025,
+<span style="color:grey">3 September 2025,
 Statistical Week 2025, Wiesbaden, Germany
 </span><br>
 
 **Latent Markov models in Ecology: A unifying perspective**<br>
-<span style="color:grey">12. June 2025,
+<span style="color:grey">12 June 2025,
 Nordic-Baltic Biometric Conference, Oslo, Norway
 </span><br>
 <div style="text-align: center;">
@@ -62,12 +62,12 @@ Nordic-Baltic Biometric Conference, Oslo, Norway
 </div><br>
 
 **Efficient smoothness selection for nonparametric Markov-switching models via quasi restricted maximum likelihood**<br>
-<span style="color:grey">5. January 2025,
+<span style="color:grey">5 January 2025,
 Statistics Seminar, St Andrews, Scotland
 </span><br>
 
 **Efficient smoothness selection for nonparametric Markov-switching models via quasi restricted maximum likelihood**<br>
-<span style="color:grey">24. September 2024,
+<span style="color:grey">24 September 2024,
 Statistics Seminar, Göttingen, Germany
 </span><br>
 <div style="text-align: center;">
@@ -75,7 +75,7 @@ Statistics Seminar, Göttingen, Germany
 </div><br>
 
 **Exploring hidden dynamics: statistical inference in periodically inhomogeneous hidden Markov models for animal behaviour**<br>
-<span style="color:grey">4. September 2024,
+<span style="color:grey">4 September 2024,
 Royal Statistical Society Conference, Brighton, UK
 </span><br>
 <div style="text-align: center;">
@@ -83,7 +83,7 @@ Royal Statistical Society Conference, Brighton, UK
 </div><br>
 
 **Inference on the state process of periodically inhomogeneous hidden Markov models for animal behaviour**<br>
-<span style="color:grey">17. July 2024,
+<span style="color:grey">17 July 2024,
 International Statistical Ecology Conference, Swansea, Wales
 </span><br>
 <div style="text-align: center;">
@@ -91,13 +91,13 @@ International Statistical Ecology Conference, Swansea, Wales
 </div><br>
 
 **Inference on the state process of periodically inhomogeneous hidden Markov models**<br>
-<span style="color:grey">16. February 2024,
+<span style="color:grey">16 February 2024,
 Young Researchers Workshop of the Center for Statistics, Bielefeld University
 </span><br>
 I held a short presentation about our paper [Inference on the state process of periodically inhomogeneous hidden Markov models for animal behaviour](https://arxiv.org/abs/2312.14583). We established novel tools to better understand the state process of periodically inhomogeneous hidden Markov models regarding i) the periodically varying unconditional state distribution and ii) the state dwell-time distribution. This was illustrated using the movement track of an elphant from the Ivory Coast. You can download the slides [here](../files/slides/slides_YRW.pdf).
 
 **Mitigating consequences of the Markov assumption**<br>
-<span style="color:grey">24. October 2023,
+<span style="color:grey">24 October 2023,
 Colloquium of the Center for Statistics, Bielefeld University
 </span><br>
 I presented the results of my master thesis which focussed on methods for mitigation the undesired consequences of the Markov assumption in hidden Markov models. In particular, I derived properties of the state process of periodically inhomogeneous Markov chains, and extended the model class of hidden semi-Markov models to allow for inhomogeneity in the state dwell-time distributinos. You can download the slides [here](../files/slides/slides_ZeSt.pdf).
@@ -105,7 +105,7 @@ I presented the results of my master thesis which focussed on methods for mitiga
 ## Posters
 
 **Mitigating consequences of the Markov assumption**<br>
-<span style="color:grey">4. December 2023,
+<span style="color:grey">4 December 2023,
 Doctoral workshop of the Bielefeld Graduate School of Economics and Management (BiGSEM), Bielefeld University
 </span><br>
 I also presented the results of my master thesis as a poster in the 18. doctoral workshop of the Bielefeld Graduate School of Economics and Management (BiGSEM). You can download the poster [here](../files/slides/Poster_BIGSEM_workshop_Koslik.pdf).
