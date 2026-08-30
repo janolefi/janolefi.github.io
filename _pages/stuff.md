@@ -9,7 +9,7 @@ author_profile: true
 This summer, our research group participated in two 24 hours swimming events.
 <div style="text-align: center;">
 <img src="../images/Schwerte.jpg" style="width: 50%; height: auto;">
-<img src="../images/Schroetti.jpg" style="width: 47%; height: auto;">
+<img src="../images/Schroetti.jpg" style="width: 48%; height: auto;">
 </div>
 
 ## 2025
