@@ -8,7 +8,7 @@ author_profile: true
 
 **Fast and scalable inference in hidden Markov models with Gaussian fields**<br>
 <span style="color:grey"> 2 July 2026,
-International Workshop on Statistical Modelling (IWSM), University of Oslo, Norway,
+International Workshop on Statistical Modelling (IWSM), Oslo, Norway
 </span><br>
 <div style="text-align: center;">
 <img src="../images/IWSM26.jpg" style="width: 70%; height: auto;">
