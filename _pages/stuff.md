@@ -7,13 +7,13 @@ author_profile: true
 
 ## 2026
 
-- This summer, our research group participated in two 24 hours swimming events, swimming a total of 86 km and 72 km, respectively.
+This summer, our research group participated in two 24 hours swimming events, swimming a total of 86 km and 72 km, respectively.
 <div style="text-align: center;">
 <img src="../images/Schwerte.jpg" style="width: 50%; height: auto;">
 <img src="../images/Schroetti.jpg" style="width: 48%; height: auto;">
-</div><br>
+</div><br><br>
 
-- In July, I submitted my thesis!
+In July, I submitted my thesis!
 <div style="text-align: center;">
 <img src="../images/Diss.jpg" style="width: 50%; height: auto;">
 </div>
