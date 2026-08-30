@@ -10,6 +10,9 @@ author_profile: true
 <span style="color:grey"> 2 July 2026,
 International Workshop on Statistical Modelling (IWSM), University of Oslo, Norway,
 </span><br>
+<div style="text-align: center;">
+<img src="../images/IWSM26.jpg" style="width: 70%; height: auto;">
+</div><br>
 
 **Fast estimation of Markov-switching correlated random walk models subject to measurement error**<br>
 <span style="color:grey">11. June 2026,
