@@ -11,7 +11,7 @@ This summer, our research group participated in two 24 hours swimming events, sw
 <div style="text-align: center;">
 <img src="../images/Schwerte.jpg" style="width: 50%; height: auto;">
 <img src="../images/Schroetti.jpg" style="width: 48%; height: auto;">
-</div><br>
+</div>
 
 In July, I submitted my thesis!
 <div style="text-align: center;">
