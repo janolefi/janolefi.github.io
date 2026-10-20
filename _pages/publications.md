@@ -39,20 +39,20 @@ Note that I got married in January 2026 and changed my last name from Koslik to 
 
 - Dupont, F., McClintock, B. T., **Fischer, J.-O.**, Marcoux, M., Hussey, N. E., Auger-Méthé, M. (2026)<br>
 ["Inferring resource selection and utilization distributions from irregular and error-prone animal tracking data"](https://arxiv.org/abs/2606.12566)<br>
-*arXiv preprint*, arXiv:2606.12566, under review
+*arXiv preprint*, arXiv:2606.12566, under review.
 - **Fischer, J.-O.** (2026)<br>
 ["Fast and scalable inference in hidden Markov models with Gaussian fields"](https://arxiv.org/abs/2603.17469)<br>
-*arXiv preprint*, arXiv:2603.17469, in revision
+*arXiv preprint*, arXiv:2603.17469, in revision.
 - Michels, R., Bajons, R., **Fischer, J.-O.** (2026)<br>
 ["Integrating Unsupervised and Supervised Learning for the Prediction of Defensive Schemes in American football."](https://arxiv.org/abs/2602.10784)<br>
 *arXiv preprint*, arXiv:2602.10784
 - Ammann, K., Adam, T., **Koslik, J.-O.** (2026)<br>
 ["Non-Homogeneous Markov-Switching Generalized Additive Models for Location, Scale, and Shape"](https://arxiv.org/abs/2601.03760)<br>
-*arXiv preprint*, arXiv:2601.03760, under review
+*arXiv preprint*, arXiv:2601.03760, under review.
 - **Koslik, J.-O.** (2025)<br>
 ["Tensor-product interactions in Markov-switching models"](https://arxiv.org/abs/2507.01555)<br>
-*arXiv preprint*, arXiv:2507.01555, in revision
+*arXiv preprint*, arXiv:2507.01555, in revision.
 - **Koslik, J.-O.** (2024)<br>
 ["Efficient smoothness selection for nonparametric Markov-switching models via quasi restricted maximum likelihood"](https://arxiv.org/abs/2411.11498)<br>
-*arXiv preprint*, arXiv:2411.11498, in revision
+*arXiv preprint*, arXiv:2411.11498, in revision.
 
