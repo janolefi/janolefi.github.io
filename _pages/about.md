@@ -10,7 +10,7 @@ redirect_from:
 
 Hi, I'm Ole!
 
-I'm a PhD student in the <a href="https://www.uni-bielefeld.de/fakultaeten/wirtschaftswissenschaften/lehrbereiche/stats/index.xml" target = "_blank">Statistics and Data Analysis Group</a> at Bielefeld University.
+I'm a Postdoctoral researcher in the <a href="https://www.uni-bielefeld.de/fakultaeten/wirtschaftswissenschaften/lehrbereiche/stats/index.xml" target = "_blank">Statistics and Data Analysis Group</a> at Bielefeld University.
 
 <img src="../images/group_picture.jpg">
 
