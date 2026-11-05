@@ -10,6 +10,9 @@ Note that I got married in January 2026 and changed my last name from Koslik to 
 
 ## Peer-reviewed papers
 
+- **Fischer, J.-O.** (2026)<br>
+["Fast and scalable inference in hidden Markov models with Gaussian fields"]([https://arxiv.org/abs/2603.17469](https://www.tandfonline.com/doi/full/10.1080/10618600.2026.2760482))<br>
+*Journal of Computational and Graphical Statistics*, in press.
 - **Fischer, J.-O.**, Dupont, F., Auger-Méthé, M., Marcoux, M., Hussey, N., Heckman, N. (2026)<br>
 ["Flexible unimodal density estimation in hidden Markov models"](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210x.70390)<br>
 *Methods in Ecology and Evolution*. 17(10), 2994-3005.
@@ -40,9 +43,6 @@ Note that I got married in January 2026 and changed my last name from Koslik to 
 - Dupont, F., McClintock, B. T., **Fischer, J.-O.**, Marcoux, M., Hussey, N. E., Auger-Méthé, M. (2026)<br>
 ["Inferring resource selection and utilization distributions from irregular and error-prone animal tracking data"](https://arxiv.org/abs/2606.12566)<br>
 *arXiv preprint*, arXiv:2606.12566, under review.
-- **Fischer, J.-O.** (2026)<br>
-["Fast and scalable inference in hidden Markov models with Gaussian fields"](https://arxiv.org/abs/2603.17469)<br>
-*arXiv preprint*, arXiv:2603.17469, in revision.
 - Michels, R., Bajons, R., **Fischer, J.-O.** (2026)<br>
 ["Integrating Unsupervised and Supervised Learning for the Prediction of Defensive Schemes in American football."](https://arxiv.org/abs/2602.10784)<br>
 *arXiv preprint*, arXiv:2602.10784
