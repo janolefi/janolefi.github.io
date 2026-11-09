@@ -13,7 +13,7 @@ Note that I got married in January 2026 and changed my last name from Koslik to 
 - **Fischer, J.-O.** (2026)<br>
 ["Fast and scalable inference in hidden Markov models with Gaussian fields"](https://www.tandfonline.com/doi/full/10.1080/10618600.2026.2760482)<br>
 *Journal of Computational and Graphical Statistics*, in press.<br>
-[Accepted manuscpript](../files/HMMs_GFs.pdf) [Supplement](HMMs_GFs_supplement.pdf)
+[Accepted manuscpript](../files/HMMs_GFs.pdf) [Supplement](HMMs_GFs_supplement.pdf),
 - **Fischer, J.-O.**, Dupont, F., Auger-Méthé, M., Marcoux, M., Hussey, N., Heckman, N. (2026)<br>
 ["Flexible unimodal density estimation in hidden Markov models"](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210x.70390)<br>
 *Methods in Ecology and Evolution*. 17(10), 2994-3005.
