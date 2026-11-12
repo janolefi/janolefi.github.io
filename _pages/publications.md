@@ -11,6 +11,9 @@ Note that I got married in January 2026 and changed my last name from Koslik to 
 ## Peer-reviewed papers
 
 - **Fischer, J.-O.** (2026)<br>
+["Efficient smoothness selection for nonparametric Markov-switching models via quasi restricted maximum likelihood"](https://arxiv.org/abs/2411.11498)<br>
+*Statistics and Computing*, in press.
+- **Fischer, J.-O.** (2026)<br>
 ["Fast and scalable inference in hidden Markov models with Gaussian fields"](https://www.tandfonline.com/doi/full/10.1080/10618600.2026.2760482)<br>
 *Journal of Computational and Graphical Statistics*, in press.<br>
 [Accepted manuscpript](../files/HMMs_GFs.pdf) · [Supplement](HMMs_GFs_supplement.pdf)
@@ -53,7 +56,4 @@ Note that I got married in January 2026 and changed my last name from Koslik to 
 - **Koslik, J.-O.** (2025)<br>
 ["Tensor-product interactions in Markov-switching models"](https://arxiv.org/abs/2507.01555)<br>
 *arXiv preprint*, arXiv:2507.01555, in revision.
-- **Koslik, J.-O.** (2024)<br>
-["Efficient smoothness selection for nonparametric Markov-switching models via quasi restricted maximum likelihood"](https://arxiv.org/abs/2411.11498)<br>
-*arXiv preprint*, arXiv:2411.11498, in revision.
 
